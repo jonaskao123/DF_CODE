@@ -10,5 +10,6 @@
 ### Experiment
 - **Predicted label sum**
 
-  ![image](https://github.com/user-attachments/assets/555ae606-0942-463b-8a61-fac14cc41e23)
-  ![image](https://github.com/user-attachments/assets/fa88c324-a05f-4800-8319-9d33bf4092ff)
+  ![image](https://github.com/user-attachments/assets/7856d4a3-b6d2-4e3e-918a-acdd776ce40a)
+  ![image](https://github.com/user-attachments/assets/05e34c3b-253a-4fe0-b4f5-b05ba8ebc42e)
+
